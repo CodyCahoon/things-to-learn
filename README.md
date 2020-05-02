@@ -15,6 +15,8 @@
 11. What is currying?
 12. What is requestAnimationFrame?
 13. Why should I use semantic HTML?
+14. When should I use `px`, `em`, `rem`, `%` in CSS?
+15. What are `min`, `max`, and `clamp` in CSS?
 
 ## Data Attributes
 
