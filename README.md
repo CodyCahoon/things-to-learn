@@ -18,6 +18,9 @@
 14. When should I use `px`, `em`, `rem`, `%` in CSS?
 15. What are `min`, `max`, and `clamp` in CSS?
 16. What is ACID?
+17. What is a web worker?
+18. What is a service worker?
+19. How does a web socket work?
 
 ## Data Attributes
 
