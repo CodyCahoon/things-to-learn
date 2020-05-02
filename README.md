@@ -4,7 +4,7 @@
 
 1. What is shadow DOM and how is it used? [See Shadow DOM]
 2. What are some benefits of shadow DOM? [See Shadow DOM]
-3. What are the purpose of data attributes?
+3. What are the purpose of data attributes? [See Data Attributes]
 4. What is the difference between bind, call and apply?
 5. What is the difference between virtual DOM and shadow DOM?
 6. What is TCP/UDP?
@@ -28,3 +28,8 @@ Shadow DOM is a DOM structure attached to an element (called the shadow host) to
 
 1. Isolated styles means unable to use outside styles
 2. Unable to parse shadow tree
+
+
+## Data Attributes
+
+Enables additional information to be placed on an HTML element. Attributes can be accessed via JS using `el.dataset[<property-name>]`. Attributes can be accessed via CSS using `content: attr(data-example)` or as selectors `article[data-size=4] { width: 400px }`
