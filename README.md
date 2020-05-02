@@ -14,6 +14,7 @@
 10. What are closures?
 11. What is currying?
 12. What is requestAnimationFrame?
+13. Why should I use semantic HTML?
 
 ## Data Attributes
 
