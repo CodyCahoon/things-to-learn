@@ -22,6 +22,7 @@
 18. What is a service worker?
 19. How does a web socket work?
 20. What are the features of ES5, ES6, ES7, etc.?
+21. What is CSS specificity?
 
 ## Data Attributes
 
