@@ -22,7 +22,25 @@
 18. What is a service worker?
 19. How does a web socket work?
 20. What are the features of ES5, ES6, ES7, etc.?
-21. What is CSS specificity?
+21. What is CSS specificity? [See CSS]
+
+## CSS
+
+### Specificity
+
+If one rule has a million class selectors and another rule has one id selector, the selector style will always win out.
+
+[https://specifishity.com/](Link to Specifishity)
+
+| Style          | Specificity | Example              |
+| -------------- | ----------- | -------------------- |
+| inline         | 1000        | `style="..."`        |
+| id             | 100         | `#item { ... }`      |
+| class          | 10          | `.item {...}`        |
+| attribute      | 10          | `img[alt] {...}`     |
+| pseudo-class   | 10          | `span:hover { ... }` |
+| element        | 1           | `span { ...}`        |
+| pseudo-element | 1           | `span::after { ...}` |
 
 ## Data Attributes
 
